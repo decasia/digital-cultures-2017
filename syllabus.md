@@ -87,6 +87,7 @@ Late work is penalized 1/3 of a grade per day, and is not accepted after one wee
 ## Non-Discrimination
 
 Title IX makes it clear that all students should have equal access to higher education and should not be hindered based on their gender. Violence and harassment based on sex and gender are a Civil Rights offenses and are subject to the same kinds of accountability and the same kinds of support applied to offenses against other protected categories such as race, national origin, etc. If you or someone you know has been harassed or assaulted, you can find the appropriate resources here, including the names and contact information of your Title IX Coordinators. If you are a victim, or accused, of sexual misconduct you may also consider consulting with a Support Person. The Whittier College Support Person Program can provide non-judgmental support, accompaniment, advising, and information about the process of reporting. Support People are private, meaning they will not disclose any identifying information to the College.
+
 If you do not want the Title IX Coordinator notified, instead of disclosing to me as your instructor, you can speak privately with the Whittier College Support Person Program (562-907-4233), the Counseling Center (562-907-4239 or 562-907-4911 after hours), or Project Sister (909-626-4357).
 
 To learn about your rights as a student and how to protect and preserve the rights of your peers it is also strongly recommended that you familiarize yourself with the campus Sexual Misconduct Policy.
@@ -192,7 +193,7 @@ Reading: Status Update, Chapter 4 (“Self-Branding: The (Safe For Work) Self”
 
 Reading: Status Update, Chapter 5 (“Lifestreaming: We Live in Public”)
 
-## Week 9: Relationships and love ##
+## Week 9: Confession and love ##
 
 ### March 28: Confessional selves
 
@@ -226,13 +227,13 @@ Reading: Brunton, “The Botnets.”
 
 ## Week 12: Digital California ##
 
-### April 18: Entrepreneurship
-
-Reading: Status Update, Chapter 6 (“Designed in California: Entrepreneurship and the Myths of Web 2.0”)
-
-### April 20: The Californian Ideology
+### April 18: The Californian Ideology
 
 Reading: Richard Barbrook and Andy Cameron, “The Californian Ideology.”
+
+### April 20: Entrepreneurship
+
+Reading: Status Update, Chapter 6 (“Designed in California: Entrepreneurship and the Myths of Web 2.0”)
 
 ## Week 13: Digital California II ##
 
