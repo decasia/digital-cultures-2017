@@ -12,7 +12,7 @@ How is culture affected by modern digital technology? How does human experience 
 
 Eli Thorkelson, Postdoctoral Fellow, DigLibArts/Anthropology  
 Email: ethorkel@whittier.edu  
-Office hours: Thursdays 8:45-9:25am, Platner Hall
+Office hours: Thursdays 8:45-9:20am, Platner Hall
 
 ## Requirements ##
 
@@ -31,23 +31,23 @@ To expand on this slightly:
 
 There will be **two short papers** in the class, due February 21st and April 1st. These papers will ask you to write about a topic of your choosing while using the concepts we have talked about in class. I will provide more details on these papers as we move through the course.
 
-Each student will be assigned randomly to a research group. Each group will be responsible for a number of different tasks, including commenting on each other's papers and scrapbooks, doing a little bit of collaborative research, and giving class presentations on the readings. Each group will present
+Each student will be assigned randomly to a **research group**. Each group will be responsible for a number of different tasks, including commenting on each other's papers and scrapbooks, doing a little bit of collaborative research, and giving class presentations on the readings. Each group will present
  2-3 times during the semester.
 
- responsible for starting out a class with a brief presentation on that day’s readings. Your presentation should do two things: (1) summarize the main ideas and argument of the readings and (2) ask a few questions about the readings that you think would be interesting to talk about in class. The presentations should be short — say 5-10 minutes long.
+Your **group presentations** should do two things: (1) summarize the main ideas and argument of the readings and (2) ask a few questions about the readings that you think would be interesting to talk about in class. The presentations should be short — say 5-10 minutes long.
 
 Finally, for this course you will be asked to make a **scrapbook** about a digital culture of your choosing. Each week, you will be asked to look at your chosen culture through a new lens related to that week’s readings, and at the end of the course, instead of a final exam or paper, you will write brief annotations on each week’s materials. As we move from topic to topic, your analysis of your chosen digital culture should become more nuanced and sophisticated.
 
 Pick your course topic from something like the following:
 
-- A digital culture (or subculture) you belong to or find interesting
+- A digital culture (or subculture) you belong to or find interesting.
 -	A contemporary digital technology that has recently become popular or just has a lot of social attention around it.
 -	A site in your everyday life that uses technology in an interesting way.
 -	Some other topic related to the course that you are interested in.
 
 (If you have trouble thinking of a topic, email me after the first day of class and I’ll help you find one.)
 
-I will announce scrapbook topics each week on Thursday, and they will be due the following Tuesday in class. You will need to post your scrapbook entries on [Medium](http://www.medium.com/) and
+I will announce scrapbook topics each week on Thursday, and they will be due the following Tuesday in class. You will need to post your scrapbook entries on [Medium](http://www.medium.com/). We'll discuss how to do this.
 
 ## Textbooks and readings ##
 
@@ -58,20 +58,21 @@ The course has two required textbooks. They should both be available at the camp
 
 All other readings are available in PDF format on the course homepage on Moodle.
 
-# COURSE POLICIES #
+# COURSE POLICIES
 
 Some of the following policies are based on Anne Cong-Huyen’s Digital Labor syllabus from JanTerm 2016. Those in turn were adapted from documents shared by Andrea Rehn & Bill Kronholm and Nadia Dawisha and Karen Dawisha. 
 
-## Classroom Community ##
+## Classroom Community
 
 Each student in this class is expected to treat other students with respect and consideration regardless of race, ethnicity, nationality, gender, sexuality, economic background, religion, age, ability, etc. Hate speech or other acts of targeted discriminatory speech will not be tolerated. Any student’s behavior that intimidates or makes difficult the attendance of another student will be considered harassment. If you ever feel uncomfortable with a situation or a discussion that occurs before, during, or outside of class, please do not hesitate to talk to me, or, if you are not comfortable speaking with me, please talk to someone in the Office of Student Life or Counseling Services. Your best interests will always be respected in taking any action.
 
-## Communications ##
+## Communications
 
-If you have questions about the course, it’s always good for you to come to my office hours. They are from 9-11am on Wednesdays in my office in the library (next to the DigLibArts collaboratory).
+If you have questions about the course, it’s always good for you to come to my office hours. They are before class on Thursdays in my office in Platner Hall (from 8:45am until 9:20).
+
 The rest of the time, the best way to reach me is via email at ethorkel@whittier.edu. I’ll normally respond within a day during the week, or on Monday if you get in touch over the weekend.
 
-## Gadgets ##
+## Gadgets
 
 Needless to say, this course is not anti-technology. In fact, to participate in the course, you will need to have access to the internet, whether at the campus library, at your home, or via a mobile device.
 
@@ -79,14 +80,15 @@ However, part of the purpose of the course is to think critically about how we u
 
 As the class goes on, we will adjust the gadget use policy as needed. Some days we may experiment with having more digital communication as part of the classroom experience. Other days we will intentionally stop using our gadgets.
 
-## Late Work ##
+## Late Work
 
 Late work is penalized 1/3 of a grade per day, and is not accepted after one week. Failure to complete any of the course requirements will result in a failing course grade of “F.” If you know that you will be missing class, please notify me ahead of time so we can make alternate arrangements. If you fall ill or encounter some sort of emergency, notify me as soon as possible. Your participation grade will suffer if you are repeatedly absent from class, except in exceptional circumstances.
 
-## Non-Discrimination ##
+## Non-Discrimination
 
 Title IX makes it clear that all students should have equal access to higher education and should not be hindered based on their gender. Violence and harassment based on sex and gender are a Civil Rights offenses and are subject to the same kinds of accountability and the same kinds of support applied to offenses against other protected categories such as race, national origin, etc. If you or someone you know has been harassed or assaulted, you can find the appropriate resources here, including the names and contact information of your Title IX Coordinators. If you are a victim, or accused, of sexual misconduct you may also consider consulting with a Support Person. The Whittier College Support Person Program can provide non-judgmental support, accompaniment, advising, and information about the process of reporting. Support People are private, meaning they will not disclose any identifying information to the College.
 If you do not want the Title IX Coordinator notified, instead of disclosing to me as your instructor, you can speak privately with the Whittier College Support Person Program (562-907-4233), the Counseling Center (562-907-4239 or 562-907-4911 after hours), or Project Sister (909-626-4357).
+
 To learn about your rights as a student and how to protect and preserve the rights of your peers it is also strongly recommended that you familiarize yourself with the campus Sexual Misconduct Policy.
 
 ## Accommodations ##
@@ -103,8 +105,7 @@ It is expected that all of the work you do for this class will be original, or o
 
 ### Jan 26: Introduction to digital cultures
 
-We will have a general introduction to the course topics and logistics.
-Everyone take notes here: https://goo.gl/BNXqq7
+We will have a general introduction to the course topics and logistics. We'll also take collaborative notes.
 
 **ASSIGNMENT**  
 Come up with a topic for your course scrapbook.
@@ -136,7 +137,9 @@ Reading: The Breakup 2.0, Chapter 5 (“Breaking Up in a Public”).
 Assignment: Make a list of common elements in web culture. Add your contribution to this document: https://goo.gl/48dnVm
 
 ### Feb 16: Internet “Low Culture”: Memes
+
 Assignment: Add 1 or 2 memes to our crowdsourced meme list. Add your contributions here: https://goo.gl/OYyPHi
+
 See also http://knowyourmeme.com/
 
 ## Week 5: Network Fantasy ##
@@ -148,6 +151,7 @@ No reading. In-class film screening: *The Matrix* (first half).
 ** FIRST SHORT PAPER DUE (by midnight) **
 
 ### Feb 23: Network Fantasy, Part 2
+
 No reading. In-class film screening: *The Matrix* (second half).
 
 ## Week 6: Internet infrastructure ##
@@ -233,6 +237,7 @@ Reading: Richard Barbrook and Andy Cameron, “The Californian Ideology.”
 ## Week 13: Digital California II ##
 
 ### April 25: Indigenous internet in SoCal
+
 Reading: Sandvig, “Connection at Ewiiaapaayp Mountain.”
 
 ### April 27: Digital technology in the field
