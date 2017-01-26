@@ -32,7 +32,7 @@ To expand on this slightly:
 
 **Participation** in class is required. This means that you should come to class each day in a reasonable state of consciousness, ready to talk about the week’s topic with your classmates. You should do the required readings and should bring them to class (in either electronic or paper format).
 
-There will be **two short papers** in the class, due February 21st and April 1st. These papers will ask you to write about a topic of your choosing while using the concepts we have talked about in class. I will provide more details on these papers as we move through the course.
+There will be **two short papers** in the class, due February 21st and April 4st. These papers will ask you to write about a topic of your choosing while using the concepts we have talked about in class. I will provide more details on these papers as we move through the course.
 
 Each student will be assigned randomly to a **research group** in Week 2. Each group will be responsible for a number of different tasks, including commenting on each other's papers and scrapbooks, doing a little bit of collaborative research, and giving class presentations on the readings. Each group will present 2-3 times during the semester.
 
@@ -153,7 +153,7 @@ See also http://knowyourmeme.com/
 
 No reading. In-class film screening: *The Matrix* (first half).
 
-** FIRST SHORT PAPER DUE (by midnight) **
+**FIRST SHORT PAPER DUE (by midnight)**
 
 ### Feb 23: Network Fantasy, Part 2
 
@@ -215,7 +215,7 @@ Reading: “The Conscience of a Hacker,” http://phrack.org/issues/7/3.html.
 
 **SECOND SHORT PAPER DUE (by midnight)**
 
-April 6: Hacking Politics and Lulz
+### April 6: Hacking Politics and Lulz
 
 Reading: Biella Coleman, “Our Weirdness is Free.”
 
