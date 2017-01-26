@@ -15,7 +15,7 @@ How is culture affected by modern digital technology? How does human experience 
 
 Eli Thorkelson, Postdoctoral Fellow, DigLibArts/Anthropology  
 Email: ethorkel@whittier.edu  
-Office hours: Thursdays 8:45-9:20am, Platner Hall
+Office hours: Thursdays 8:45-9:20am, Platner Hall 214
 
 ## Requirements ##
 
@@ -70,7 +70,7 @@ Each student in this class is expected to treat other students with respect and 
 
 ## Communications
 
-If you have questions about the course, it’s always good for you to come to my office hours. They are before class on Thursdays in my office in Platner Hall (from 8:45am until 9:20).
+If you have questions about the course, it’s always good for you to come to my office hours. They are before class on Thursdays in my office in Platner Hall 214 (from 8:45am until 9:20).
 
 The rest of the time, the best way to reach me is via email at ethorkel@whittier.edu. I’ll normally respond within a day during the week, or on Monday if you get in touch over the weekend.
 
