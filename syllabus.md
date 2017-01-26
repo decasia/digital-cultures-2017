@@ -1,5 +1,7 @@
 # ANTHROPOLOGY OF DIGITAL CULTURES #
 
+Syllabus Version 1.0
+
 ANTH 290-01, Spring 2016  
 Time: Tuesday/Thursday, 9:30-10:50am  
 Room: SH 107  
