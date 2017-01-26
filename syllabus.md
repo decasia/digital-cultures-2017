@@ -2,7 +2,8 @@
 
 ANTH 290-01, Spring 2016  
 Time: Tuesday/Thursday, 9:30-10:50am  
-Room: SH 107
+Room: SH 107  
+CRN 21050
 
 ## Description ##
 
@@ -16,12 +17,12 @@ Office hours: Thursdays 8:45-9:20am, Platner Hall
 
 ## Requirements ##
 
-The course requirements are not particularly complicated:
+Here are the course requirements:
 
-1.	Participation (worth 25%)
+1.	Participation (worth 20%)
 2.	Two short papers (worth 30%, or 15% each)
-3.	Class presentation (worth 10%)
-4.	Weekly scrapbook and final analysis (35%)
+3.	Groupwork and in-class assessments (worth 25%)
+4.	Weekly scrapbook and final analysis (25%)
 
 (Note that I may need to adjust these weightings slightly at the end of the course, to ensure fair outcomes.)
 
@@ -31,8 +32,7 @@ To expand on this slightly:
 
 There will be **two short papers** in the class, due February 21st and April 1st. These papers will ask you to write about a topic of your choosing while using the concepts we have talked about in class. I will provide more details on these papers as we move through the course.
 
-Each student will be assigned randomly to a **research group**. Each group will be responsible for a number of different tasks, including commenting on each other's papers and scrapbooks, doing a little bit of collaborative research, and giving class presentations on the readings. Each group will present
- 2-3 times during the semester.
+Each student will be assigned randomly to a **research group** in Week 2. Each group will be responsible for a number of different tasks, including commenting on each other's papers and scrapbooks, doing a little bit of collaborative research, and giving class presentations on the readings. Each group will present 2-3 times during the semester.
 
 Your **group presentations** should do two things: (1) summarize the main ideas and argument of the readings and (2) ask a few questions about the readings that you think would be interesting to talk about in class. The presentations should be short — say 5-10 minutes long.
 
@@ -108,8 +108,10 @@ It is expected that all of the work you do for this class will be original, or o
 
 We will have a general introduction to the course topics and logistics. We'll also take collaborative notes.
 
-**ASSIGNMENT**  
-Come up with a topic for your course scrapbook.
+**ASSIGNMENT (due by 1/31)**
+
+- Come up with a topic for your course scrapbook and add it to this collaborative document: goo.gl/CjvBRN  
+- Make a [Medium](http://medium.com) account and follow my Medium account ([@decasia](https://medium.com/@decasia)).
 
 ## Week 2: Media ideologies I ##
 
