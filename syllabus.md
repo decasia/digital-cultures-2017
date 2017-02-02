@@ -32,7 +32,7 @@ To expand on this slightly:
 
 **Participation** in class is required. This means that you should come to class each day in a reasonable state of consciousness, ready to talk about the week’s topic with your classmates. You should do the required readings and should bring them to class (in either electronic or paper format).
 
-There will be **two short papers** in the class, due February 21st and April 4st. These papers will ask you to write about a topic of your choosing while using the concepts we have talked about in class. I will provide more details on these papers as we move through the course.
+There will be **two short papers** in the class, due February 21st and April 4th. These papers will ask you to write about a topic of your choosing while using the concepts we have talked about in class. I will provide more details on these papers as we move through the course.
 
 Each student will be assigned randomly to a **research group** in Week 2. Each group will be responsible for a number of different tasks, including commenting on each other's papers and scrapbooks, doing a little bit of collaborative research, and giving class presentations on the readings. Each group will present 2-3 times during the semester.
 
@@ -101,6 +101,10 @@ If you need accommodations on the basis of physical, learning, or psychological 
 ## Academic integrity ##
 
 It is expected that all of the work you do for this class will be original, or otherwise cited. Plagiarism will result in a failing grade on the plagiarized assignment and possible disciplinary action by the College. We will review the proper way to use outside sources in order to avoid plagiarism; however, I encourage you to meet with me or email me, if you are at all uncertain about where something like collaboration ends and plagiarism begins. If you are unsure about whether the work you are submitting is original, improperly cited, or plagiarized, consult with me, or with the institution’s entire Academic Honesty Policy (at http://www.whittier.edu/academics/academichonesty).
+
+## Attendance ##
+
+You are allowed **two** non-excused absences. After that (barring extenuating circumstances), your participation grade will be reduced for each additional absence.
 
 # TOPICS, READINGS AND ASSIGNMENTS #
 
