@@ -6,7 +6,7 @@ Prerequisite: As discussed in Week 2, you'll build your scrapbook on [Medium](ht
 
 ## Entry 1. Media Ideologies in your culture
 
-**Due Tues., Feb 7.**
+**Due Tues., Feb 7 (before class starts)**
 
 Your first Medium post should have two parts:
 
