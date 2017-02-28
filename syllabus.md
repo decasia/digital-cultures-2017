@@ -1,6 +1,6 @@
 # ANTHROPOLOGY OF DIGITAL CULTURES #
 
-Syllabus Version 1.0
+Syllabus Version 1.1
 
 ANTH 290-01, Spring 2016  
 Time: Tuesday/Thursday, 9:30-10:50am  
@@ -171,11 +171,11 @@ No reading. In-class film screening: *The Matrix* (second half).
 
 Research and diagram every step that happens when you access a single web page.
 
-### March 2: Servers
+### March 2: Writing workshop
 
 No reading.
 
-Fieldtrip (if possible): campus server room.
+Thesis writing workshop in-class.
 
 ## Week 7: Interaction and identity I ##
 
@@ -183,9 +183,11 @@ Fieldtrip (if possible): campus server room.
 
 Reading: Status Update, Chapter 2 (“Leaders and Followers”).
 
-### March 9: Digital selfhood
+### March 9: Servers
 
-Reading: Status Update, Chapter 3 (“The Fabulous Lives of Micro-Celebrities”)
+No reading.
+
+Field trip: campus server room.
 
 ## Spring Break ##
 
