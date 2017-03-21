@@ -22,3 +22,7 @@ Your first Medium post should have two parts:
   6. What were the recipient's ideologies and expectations about the medium (as far as you can tell)?
 
 The premise here is that when people miscommunicate, that's usually the result of incompatible assumptions and expectations. If you have any trouble answering parts (5) or (6), just start by writing down your own explanation of why the miscommunication happened, and we can talk more about your example in class.
+
+3. Post your first paper (or excerpts from it) prefixed with a [td;dr](https://www.lifewire.com/what-is-tldr-2483633) (in sense 2 of the definition, "a short summary of a long text that follows").
+
+4. All digital cultures require technological work to keep them running. This means that there is normally someone whose job is to do the technical maintenance and development. Write a short post, 1-2 paragraphs, describing what you can find out about the technical workers who maintain your chosen digital culture. If you are looking at a company-run website, for instance, try to find the job postings for the company and see what "kinds of people" are getting hired. Can you tell anything about their desired educational background, for example? Or about their skills? If certain kinds of technologies are mentioned, and you don't know what they are, try to look them up; try to avoid referring to technologies that you don't recognize.
