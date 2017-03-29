@@ -1,6 +1,6 @@
 # ANTHROPOLOGY OF DIGITAL CULTURES #
 
-Syllabus Version 1.1
+Syllabus Version 1.2
 
 ANTH 290-01, Spring 2016  
 Time: Tuesday/Thursday, 9:30-10:50am  
@@ -34,9 +34,7 @@ To expand on this slightly:
 
 There will be **two short papers** in the class, due February 21st and April 4th. These papers will ask you to write about a topic of your choosing while using the concepts we have talked about in class. I will provide more details on these papers as we move through the course.
 
-Each student will be assigned randomly to a **research group** in Week 2. Each group will be responsible for a number of different tasks, including commenting on each other's papers and scrapbooks, doing a little bit of collaborative research, and giving class presentations on the readings. Each group will present 2-3 times during the semester.
-
-Your **group presentations** should do two things: (1) summarize the main ideas and argument of the readings and (2) ask a few questions about the readings that you think would be interesting to talk about in class. The presentations should be short — say 5-10 minutes long.
+Each student will be assigned randomly to a **research group** in Week 2. Each group will be responsible for a number of different tasks, including commenting on each other's papers and scrapbooks, and presenting on a collaborative fieldwork assignment in the second half of the course.
 
 Finally, for this course you will be asked to make a **scrapbook** about a digital culture of your choosing. Each week, you will be asked to look at your chosen culture through a new lens related to that week’s readings, and at the end of the course, instead of a final exam or paper, you will write brief annotations on each week’s materials. As we move from topic to topic, your analysis of your chosen digital culture should become more nuanced and sophisticated.
 
@@ -219,21 +217,23 @@ Reading: Rebecca Heino, Nicole Elison and Jennifer Gibbs, “Relationshopping.�
 
 Reading: “The Conscience of a Hacker,” http://phrack.org/issues/7/3.html.
 
-**SECOND SHORT PAPER DUE (by midnight)**
+Optional reading: Biella Coleman, “Our Weirdness is Free.”
 
-### April 6: Hacking Politics and Lulz
-
-Reading: Biella Coleman, “Our Weirdness is Free.”
-
-## Week 11: Underworlds ##
-
-### April 11: Underworlds
+### April 6: Digital Underworlds
 
 Reading: Wired, “The Rise and Fall of Silk Road,” https://www.wired.com/2015/04/silk-road-1/
 
-### April 13: The Spam Economy
+**SECOND SHORT PAPER DUE (by midnight)**
 
-Reading: Brunton, “The Botnets.”
+## Week 11: Group projects ##
+
+### April 11: Field research
+
+For this class session, spend at least 45-60 minutes **on your own** making first-hand observations about digital culture, technology, and social media usage on campus (or in the City of Whittier). Bring a notebook and write down your observations; you are also free to briefly interview people around you if you have questions about what they're doing. (Just tell them it's for a class project!)
+
+### April 13: Group analysis
+
+For this class session, meet with your group during class time and write up a shared analysis of digital culture on campus. I will give you a worksheet to organize your analysis.
 
 ## Week 12: Digital California ##
 
@@ -253,9 +253,9 @@ Reading: Sandvig, “Connection at Ewiiaapaayp Mountain.”
 
 ### April 27: Digital technology in the field
 
-**Group project**
+**Group presentations**
 
-Do an hour of field research on how digital technologies are used at Whittier College or in the city of Whittier. Come to class ready to present your findings.
+Each group will briefly present on their findings about campus digital culture.
 
 ## Week 14: Conclusion ##
 

@@ -32,3 +32,9 @@ Post your first paper (or excerpts from it) prefixed with a [td;dr](https://www.
 **Due Thurs., March 23 (before class starts)**
 
 All digital cultures require technological work to keep them running. This means that there is normally someone whose job is to do the technical maintenance and development. Write a short post, 1-2 paragraphs, describing what you can find out about the technical workers who maintain your chosen digital culture. If you are looking at a company-run website, for instance, try to find the job postings for the company and see what "kinds of people" are getting hired. Can you tell anything about their desired educational background, for example? Or about their skills? If certain kinds of technologies are mentioned, and you don't know what they are, try to look them up; try to avoid referring to technologies that you don't recognize.
+
+## Entry 4: Weirdness
+
+**Due Thurs., March 30 (before class starts)**
+
+For the next few weeks we'll be talking about some of the unusual corners of the internet: PostSecret, the Hacker Manifesto, Silk Road, etc. For this week’s scrapbook, please find three examples of weird things in your digital culture, and write a paragraph explaining why they are weird. Weirdness, anthropologically speaking, is usually a matter of something being not only not normative, but also difficult to classify. To be weird is to resist interpretation (at least a little bit). You might keep that in mind as you try to sort out weird objects from garden variety transgressions, breaches of etiquette, irrelevancies, etc.
