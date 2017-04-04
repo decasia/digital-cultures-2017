@@ -20,5 +20,5 @@ This document will contain pointers to class materials.
 - "The Greatest (Stupidest) Hacking Scenes": https://www.youtube.com/watch?v=Na1emN3SyXk
 - NCIS Hacking Scene: https://www.youtube.com/watch?v=Na1emN3SyXk&feature=youtu.be&t=1m32s
 - Example of Heartbleed data: https://www.theregister.co.uk/2014/04/09/heartbleed_explained/
-- Heartbleed test script: https://gist.githubusercontent.com/ixs/10116537/raw/5ac9a19867056054834807d0e9322e109a3d54e4/ssltest.py
+- Heartbleed test script: https://gist.githubusercontent.com/eelsivart/10174134/raw/8aea10b2f0f6842ccff97ee921a836cf05cd7530/heartbleed.py
 - Stallman, "Why is free software important?": https://www.youtube.com/watch?v=ZPPikY3uLIQ
