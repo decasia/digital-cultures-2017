@@ -22,3 +22,8 @@ This document will contain pointers to class materials.
 - Example of Heartbleed data: https://www.theregister.co.uk/2014/04/09/heartbleed_explained/
 - Heartbleed test script: https://gist.githubusercontent.com/eelsivart/10174134/raw/8aea10b2f0f6842ccff97ee921a836cf05cd7530/heartbleed.py
 - Stallman, "Why is free software important?": https://www.youtube.com/watch?v=ZPPikY3uLIQ
+
+# Silk Road notes
+
+- "Who was the real Dread Pirate Roberts?": https://www.youtube.com/watch?v=FknwWMzc96A
+- Google Images, "silk road screenshots" and "dark web"
