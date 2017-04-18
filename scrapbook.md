@@ -38,3 +38,13 @@ All digital cultures require technological work to keep them running. This means
 **Due Thurs., March 30 (before class starts)**
 
 For the next few weeks we'll be talking about some of the unusual corners of the internet: PostSecret, the Hacker Manifesto, Silk Road, etc. For this week’s scrapbook, please find three examples of weird things in your digital culture, and write a paragraph explaining why they are weird. Weirdness, anthropologically speaking, is usually a matter of something being not only not normative, but also difficult to classify. To be weird is to resist interpretation (at least a little bit). You might keep that in mind as you try to sort out weird objects from garden variety transgressions, breaches of etiquette, irrelevancies, etc.
+
+## Entry 5: Digital Economies
+
+**Due Thurs., April 20 (before class starts)**
+
+ For your last scrapbook entry, write a paragraph describing the economy at work in your digital culture. Here are some questions to consider:
+- Who pays for the infrastructure? How much does it cost? Is it profitable? (Note that many major social media firms are not very profitable, in spite of their large user bases!)
+- Who does the work of producing content? Is their work compensated (financially or otherwise)? Are there gender, racial, or other sociological divides in how people are compensated?
+- Who does emotional labor in your digital culture? (This would include: calming down angry users; handling disputes; producing positive feeling; listening to complaints; etc.)
+Refer to at least three sources (images, links, etc) in your description. This is due before class on Tuesday, April 26.
