@@ -39,3 +39,12 @@ This document will contain pointers to class materials.
 - Jobs video Whole Earth section: https://www.youtube.com/watch?v=UF8uR6Z6KLc&feature=youtu.be&t=13m6s
 - [Homeless in silicon valley](https://www.google.com/search?site=&tbm=isch&source=hp&biw=1360&bih=799&q=homeless+in+silicon+valley&oq=homeless+in+silicon&gs_l=img.3.0.0i24k1.266.1974.0.2303.20.13.0.5.5.0.128.928.10j2.12.0....0...1ac.1.64.img..3.17.933.0..0j0i8i30k1.3re8mRe4F1A#imgrc=Q5IA47uGuNNBJM)
 - [Apple headquarters](https://www.google.com/search?site=&tbm=isch&source=hp&biw=1360&bih=799&q=homeless+in+silicon+valley&oq=homeless+in+silicon&gs_l=img.3.0.0i24k1.266.1974.0.2303.20.13.0.5.5.0.128.928.10j2.12.0....0...1ac.1.64.img..3.17.933.0..0j0i8i30k1.3re8mRe4F1A#tbm=isch&q=apple+headquarters)
+
+# Digital Economics
+
+- https://medium.com/@kellysan/economy-of-twitter-716651967f36
+- https://medium.com/@steviecastro/behind-the-scenes-of-twitter-469122274f30
+- https://medium.com/@mnativid/when-adds-are-clicked-on-or-now-they-play-before-videos-or-throughout-longer-videos-despite-not-c080b783eba9
+- https://medium.com/@KMC18/beauty-vlogging-economics-5e947d784a75
+- https://medium.com/@lalaine_rose/instagrams-economy-6dc5ef03af32
+- https://medium.com/@isu.mizumi/economy-of-kpop-fan-culture-eccbc3ebfc39
