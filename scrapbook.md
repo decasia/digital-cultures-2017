@@ -48,3 +48,9 @@ For the next few weeks we'll be talking about some of the unusual corners of the
 - Who does the work of producing content? Is their work compensated (financially or otherwise)? Are there gender, racial, or other sociological divides in how people are compensated?
 - Who does emotional labor in your digital culture? (This would include: calming down angry users; handling disputes; producing positive feeling; listening to complaints; etc.)
 Refer to at least three sources (images, links, etc) in your description. This is due before class on Tuesday, April 26.
+
+## Entry 6: Second tl;dr
+
+**Due Thursday, April 27**
+
+Post your second paper (or excerpts from it) prefixed with a [td;dr](https://www.lifewire.com/what-is-tldr-2483633) (in sense 2 of the definition, "a short summary of a long text that follows").
