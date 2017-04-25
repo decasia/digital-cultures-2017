@@ -48,3 +48,11 @@ This document will contain pointers to class materials.
 - https://medium.com/@KMC18/beauty-vlogging-economics-5e947d784a75
 - https://medium.com/@lalaine_rose/instagrams-economy-6dc5ef03af32
 - https://medium.com/@isu.mizumi/economy-of-kpop-fan-culture-eccbc3ebfc39
+
+# Tribal Digital Village
+
+- https://sctdv.net/about-tdv/
+- https://www.tdvnet.com/index.php
+- http://nativepublicmedia.org/
+- https://goo.gl/maps/6hkqoKmju5R2
+- http://www.efgh.com/trans/glossary.htm
