@@ -54,3 +54,20 @@ Refer to at least three sources (images, links, etc) in your description. This i
 **Due Thursday, April 27**
 
 Post your second paper (or excerpts from it) prefixed with a [td;dr](https://www.lifewire.com/what-is-tldr-2483633) (in sense 2 of the definition, "a short summary of a long text that follows").
+
+## Final assignment
+
+For our course’s final project, your assignment will be to write an introduction and conclusion to your scrapbook, and to put your scrapbook into a neat, coherent and presentable form. If you’ve been doing the scrapbook assignments all along, this should not be difficult! It could be divided into three steps:
+
+1.	Clean up and improve your previous scrapbook assignments.
+	-	If you missed any of the assignments, now is the time to go back and take care of them.
+	-	Re-read each week’s post and make sure it is well explained and well written. Be sure you have addressed the whole assignment for that week. Make things look as neat as possible in terms of the formatting.
+2.	Go back and expand your initial post introducing your scrapbook. Your introduction should do three things:
+	-	Summarize in broad strokes the digital culture you are writing about. (You should already have lots of material that does this.)
+	-	Explain how you got interested in your scrapbook topic and what is interesting (or not) about it. (So if you are writing about something you participate in directly — like gaming, fashion, blogging, etc — then explain how you got involved in those activities. If you are writing about something you don’t participate in directly, explain how you came across the topic. If you have become bored by your topic, explain how that happened.)
+	-	Finally, write a brief preview of what is in your scrapbook, telling us about at least 3-4 of the best pieces of content you came across and telling the reader what to expect.
+3.	Add a final concluding post 4-5 paragraphs long. Your goal here should be to draw some brief but general conclusions about what makes your digital culture tick.
+	-	Pick three examples from your scrapbook that you think are particularly rich or striking. (They could be especially weird, especially wonderful, especially problematic, etc.)
+	-	Explain something unexpected that you learned from each example.
+	-	Write a brief final paragraph in which you summarize the unexpected things you learned. Explain if there is any underlying pattern that connects them. Referring to analytical concepts discussed in the course (like status, media ideologies, naturalization) would certainly be encouraged, if it is relevant.
+4.	Finally, submit your scrapbook on Moodle by pasting the URL to your Medium profile into the Moodle assignment. That will tell me that you consider your project done.
